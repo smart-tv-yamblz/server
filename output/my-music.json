@@ -1,0 +1,19 @@
+{
+  "playlist": [
+    {
+      "id": "1",
+      "title": "Плейлист 1",
+      "cover": "",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Трек 1",
+          "group": "",
+          "cover": "",
+          "popular": true,
+          "duration": "180"
+        }
+      ]
+    }
+  ]
+}
